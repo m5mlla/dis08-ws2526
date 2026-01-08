@@ -1,4 +1,4 @@
-# Markdown Cheat Sheet (Deutsch)
+# Markdown Cheat Sheet
 
 > **Ziel**: Diese Cheat Sheet zeigt die wichtigsten Markdown-Features mit **Syntax** (wie der Code aussieht) und **Gerendert** (wie es dargestellt wird). Sie basiert auf deiner ursprünglichen Lösung, wurde aber **korrigiert**, **ergänzt** und **übersichtlich** strukturiert.
 
